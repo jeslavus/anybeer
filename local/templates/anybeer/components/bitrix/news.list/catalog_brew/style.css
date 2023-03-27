@@ -1,0 +1,73 @@
+.catalog_footer, .footer_nav {
+    border-bottom: 1px solid rgba(255,255,255, 0.1);
+}
+.catalog_footer h3 {
+    font-size: 24px;
+    line-height: 120%;
+    color: #8F8F8F;
+    text-align: center;
+    margin: 32px auto;
+}
+.footer_link a {
+    color: #fff;
+}
+.footer_link a span {
+    color: #8F0000;
+}
+.privacy_police {
+    color: #8F8F8F !important;
+}
+.footer_links {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0;
+}
+.catalog {
+    padding-bottom: 32px;
+}
+.catalog_card {
+    max-width: 285px;
+    width: 100% !important;
+}
+.img_brew_wrap {
+      height: 280px;
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      justify-content: center;
+}
+
+.grade_card {
+    z-index: 500;
+}
+
+.brewery_mini {
+    padding-top: 8px;
+    border-top:1px solid #ccc;
+    margin: 16px 0;
+}
+
+.brew_list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.brew_list_gap {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.brew_mini_logo {
+    max-height: 40px;
+}
+
+.footer_card h3 {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.img_brew_wrap img {
+    height: 280px;
+}
